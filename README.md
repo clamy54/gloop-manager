@@ -32,6 +32,25 @@
 
 Simply run the provided installer on the administrator's workstation. Make sure it has network access to the Gloop server.
 
+## Update
+
+It is strongly recommended to use the same version of gloop-manager as the gloop-server container version. To update agents already installed on workstations, simply update the Gloop server. Clients will automatically download agent updates from the server.
+
+## Changelog
+
+### Version 0.5.0
+- Numerous optimizations made to support deployment across much larger IT infrastructures
+- Added expert mode allowing choice between graphical or text mode for package installation
+- Added debug mode for troubleshooting
+- Added ability to block automatic agent updates
+- Added ability to perform installations during Windows login screen
+- Added ability to schedule workstation shutdown
+- Added ability to check agent versions installed on workstations and monitor automatic update processes
+- Various bug fixes
+
+### Version 0.2.0
+- Initial public release
+
 ## License
 
 This project is part of the **Gloop** freeware suite.
