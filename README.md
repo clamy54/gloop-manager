@@ -38,6 +38,10 @@ It is strongly recommended to use the same version of gloop-manager as the gloop
 
 ## Changelog
 
+### Version 0.5.1
+- Fixed display issues with menus
+- Fixed installer bug that was resetting the ini file even when preserving existing parameters was selected
+
 ### Version 0.5.0
 - Numerous optimizations made to support deployment across much larger IT infrastructures
 - Added expert mode allowing choice between graphical or text mode for package installation
