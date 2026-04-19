@@ -4,7 +4,7 @@
 
 ## Overview
 
-`gloop-manager` is a graphical administration interface that runs on the administrator's machine. It allows IT admin to manage the entire **Gloop** solution and coordinate software deployments on workstations running the companion tool [`gloop-client`](https://github.com/your-org/gloop-client).
+`gloop-manager` is a graphical administration interface that runs on the administrator's machine. It allows IT admin to manage the entire **Gloop** solution and coordinate software deployments on workstations running the companion tool [`gloop-client`](https://github.com/clamy54/gloop-client).
 
 ## Key Features
 
