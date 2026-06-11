@@ -38,6 +38,9 @@ It is strongly recommended to use the same version of gloop-manager as the gloop
 
 ## Changelog
 
+### Version 0.6.0
+- Improved display of Chocolatey package statuses when their version is set to "latest"
+
 ### Version 0.5.1
 - Fixed display issues with menus
 - Fixed installer bug that was resetting the ini file even when preserving existing parameters was selected
